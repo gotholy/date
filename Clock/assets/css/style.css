@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  font-size: 70px;
+  height: 100vh;
+  width: 100vw;
+}
+.container {
+  display: flex;
+  gap: 2vw;
+  border: 1px solid snow;
+  justify-content: center;
+  align-items: center;
+  margin: 35vh;
+}
